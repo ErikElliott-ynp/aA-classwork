@@ -1,3 +1,3 @@
 def my_function
-    "banana"
+    "banana banana banana"
 end
